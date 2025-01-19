@@ -1,0 +1,31 @@
+header {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.justify_center {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+main {
+    display: flex;
+    flex-direction: row;
+}
+
+.space_beetwen {
+    display: flex;
+    justify-content: space-between;
+}
+
+.row {
+    display: flex;
+    justify-content: space-between;
+}
+
+footer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
