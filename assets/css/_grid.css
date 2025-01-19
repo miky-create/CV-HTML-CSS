@@ -1,0 +1,11 @@
+.grid_container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    row-gap: 10px;
+}
+
+#language_grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
